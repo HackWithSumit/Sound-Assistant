@@ -49,8 +49,3 @@ The floating button features a modern, minimal aesthetic:
    - (Android 13+) Ensure **Notification** permissions are granted.
 4. **Interact**: Drag the button anywhere on your screen. Tap it to see your volume controls!
 
-## ⚙️ Configuration
-In Android Studio, if you encounter a "Default Activity not found" error when running:
-1. Go to **Run > Edit Configurations**.
-2. Set **Launch Options > Launch** to **Nothing**.
-*(Since this app is a background utility, it does not require a traditional UI activity.)*
