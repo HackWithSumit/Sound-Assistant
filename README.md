@@ -1,3 +1,6 @@
+<img width="500" height="500" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/c39c9d96-b424-436a-8213-6d8df59fa67b" />
+
+
 # Sound Assistant 🔊
 
 Sound Assistant is a lightweight Android utility that provides instant access to your device's native volume controls via a draggable floating button and a Quick Settings tile.
